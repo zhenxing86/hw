@@ -22,4 +22,5 @@
 这个文档应描述清楚这个项目是做什么的（最好是用可以搜索的语言），
 以及其他贡献者应当如何参与进来（比如提交需求单、bug 报告、建议，或者直接贡献代码）。
 
-
+创建问题单模板教程
+https://help.github.com/articles/creating-an-issue-template-for-your-repository/
